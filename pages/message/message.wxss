@@ -1,0 +1,41 @@
+page{
+    background-color: #f1f1f1;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10rpx;
+    margin: 60rpx 20rpx;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.card-title{
+    font-size: 20px;
+    color: #333;
+    /* background-color: #f1f1f1; */
+}
+.card-img{
+    width: 100%;
+}
+.card-data{
+    margin-top: 10rpx;
+    font-size: 14px;
+    color: #ccc;
+    padding-bottom: 10rpx;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+.card-desc{
+    padding: 10rpx 0;
+    font-size: 16px;
+    color: #333;
+}
+.card-read{
+    padding: 10rpx 0;
+    font-size:14px;
+    color: #666; 
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}

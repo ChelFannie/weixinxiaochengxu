@@ -1,0 +1,5 @@
+<!--pages/contact/contact.wxml-->
+<scroll-view>
+    <image src='https://m.360buyimg.com/mobilecms/s1125x549_jfs/t14866/248/190398563/188205/429bf3f4/5a263c07N759ab19b.jpg!q70.jpg' scroll-y></image>
+    <image src='https://img1.360buyimg.com/da/jfs/t12214/351/1524941677/96956/802a2a89/5a20e27dN1d9dce8d.jpg'></image>
+</scroll-view>

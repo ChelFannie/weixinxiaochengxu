@@ -1,0 +1,6 @@
+/* pages/contact/contact.wxss */
+scroll-view{
+    /* width: 320/240 */
+    width: 640rpx;
+    height: 480rpx;
+}

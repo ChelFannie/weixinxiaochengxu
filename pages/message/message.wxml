@@ -1,0 +1,8 @@
+<!--pages/message/message.wxml-->
+<view class='card' wx:for="{{messageList}}" wx:key="id">
+    <text class='card-title'>{{item.title}}</text>
+    <text class='card-data'>{{item.date}}</text>
+    <image class='card-img' src='{{item.image}}'></image>
+    <text class='card-desc'>越努力越幸运{{item.desc}}</text>
+    <text class='card-read arrow'>查看详情</text>
+</view>

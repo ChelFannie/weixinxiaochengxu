@@ -1,0 +1,19 @@
+<view class="avatar">
+    <image class="avatar-img" src="/assets/images/avatar.png"></image>
+</view>
+<view class="space"></view>
+<view class="cell">
+    <text class="cell-item">个人资料</text>
+    <text class="cell-item arrow">我的优惠券</text>
+</view>
+<view class="space"></view>
+<view class="cell">
+    <text class="cell-item arrow">常见问题</text>
+    <text class="cell-item arrow">使用条款</text>
+    <text class="cell-item arrow">常见问题</text>
+    <text class="cell-item arrow">使用条款</text>
+</view>
+<view class="space"></view>
+<view class="cell">
+    <text class="cell-item arrow">设置</text>
+</view>
